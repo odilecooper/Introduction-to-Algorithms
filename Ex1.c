@@ -1,3 +1,4 @@
+//最近点对问题
 #include <stdio.h>
 #include <math.h>
 
